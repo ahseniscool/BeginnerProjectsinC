@@ -4,7 +4,7 @@
 #include <string.h>
 #include <time.h>
 /* player 1 = X
-player 2 = O
+    player 2 = O
 */
 
 /*****************************************************/
