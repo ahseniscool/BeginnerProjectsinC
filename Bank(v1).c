@@ -23,7 +23,7 @@ void createaccount(Bank_Account[],int);
 
 int
 main(int argc, char *argv[]) {
-
+    //example uses 2 preset accounts and a space for a third.
     int n = 3;
     Bank_Account TestAccount1 = {"Gaeti", "Crazycookies1000" ,"FluffySmokey",100.25};
     Bank_Account TestAccount2 = {"Ahsen", "Garymeister" ,"Kirbysayshi",1000000};
